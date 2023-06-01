@@ -11,7 +11,6 @@ Follow these steps to download and install the required files :
 
    ```bash
    pip install requests
- 
 
 3. Once the dependencies are installed, run the __`launch.bat`__ file to launch the application.
 
